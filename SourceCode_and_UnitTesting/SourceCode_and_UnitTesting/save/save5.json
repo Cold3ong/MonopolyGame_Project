@@ -1,0 +1,114 @@
+{"squares": [
+    {
+        "name": "Go",
+        "position": 1,
+        "type": "Go"
+    },
+    {
+        "name": "Chance",
+        "position": 2,
+        "type": "Chance"
+    },
+    {
+        "name": "Income Tax",
+        "position": 3,
+        "type": "Income Tax"
+    },
+    {
+        "name": "GotoJail",
+        "position": 4,
+        "type": "GoToJail"
+    },
+    {
+        "name": "FreeParking",
+        "position": 5,
+        "type": "FreeParking"
+    },
+    {
+        "name": "InJailOrJustVisiting",
+        "position": 6,
+        "type": "InJailorJustVisiting"
+    },
+    {
+        "name": "Chance",
+        "position": 7,
+        "type": "Chance"
+    },
+    {
+        "owner": 0,
+        "color": "red",
+        "price": 500,
+        "name": "polyu",
+        "position": 8,
+        "type": "Property",
+        "rent": 10
+    },
+    {
+        "name": "Chance",
+        "position": 9,
+        "type": "Chance"
+    },
+    {
+        "name": "Income Tax",
+        "position": 10,
+        "type": "Income Tax"
+    },
+    {
+        "name": "Chance",
+        "position": 11,
+        "type": "Chance"
+    },
+    {
+        "name": "Go",
+        "position": 12,
+        "type": "Go"
+    },
+    {
+        "name": "FreeParking",
+        "position": 13,
+        "type": "FreeParking"
+    },
+    {
+        "owner": 0,
+        "color": "red",
+        "price": 500,
+        "name": "hello",
+        "position": 14,
+        "type": "Property",
+        "rent": 10
+    },
+    {
+        "owner": 0,
+        "color": "blue",
+        "price": 600,
+        "name": "bybybe",
+        "position": 15,
+        "type": "Property",
+        "rent": 50
+    },
+    {
+        "name": "Chance",
+        "position": 16,
+        "type": "Chance"
+    },
+    {
+        "name": "Chance",
+        "position": 17,
+        "type": "Chance"
+    },
+    {
+        "name": "Chance",
+        "position": 18,
+        "type": "Chance"
+    },
+    {
+        "name": "Chance",
+        "position": 19,
+        "type": "Chance"
+    },
+    {
+        "name": "Go",
+        "position": 20,
+        "type": "Go"
+    }
+]}

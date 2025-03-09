@@ -1,0 +1,154 @@
+{"squares": [
+    {
+        "name": "Go",
+        "position": 1,
+        "type": "Go"
+    },
+    {
+        "owner": 0,
+        "color": "light blue",
+        "price": 800,
+        "name": "Central",
+        "position": 2,
+        "type": "Property",
+        "rent": 90
+    },
+    {
+        "owner": 0,
+        "color": "light blue",
+        "price": 700,
+        "name": "Wan Chai",
+        "position": 3,
+        "type": "Property",
+        "rent": 65
+    },
+    {
+        "name": "Income Tax",
+        "position": 4,
+        "type": "Income Tax"
+    },
+    {
+        "owner": 0,
+        "color": "light blue",
+        "price": 600,
+        "name": "Stanley",
+        "position": 5,
+        "type": "Property",
+        "rent": 60
+    },
+    {
+        "name": "InJailOrJustVisiting",
+        "position": 6,
+        "type": "InJailOrJustVisiting"
+    },
+    {
+        "owner": 0,
+        "color": "red",
+        "price": 400,
+        "name": "Shek O",
+        "position": 7,
+        "type": "Property",
+        "rent": 60
+    },
+    {
+        "owner": 0,
+        "color": "red",
+        "price": 500,
+        "name": "Mong Kok",
+        "position": 8,
+        "type": "Property",
+        "rent": 40
+    },
+    {
+        "name": "Chance",
+        "position": 9,
+        "type": "Chance"
+    },
+    {
+        "owner": 0,
+        "color": "red",
+        "price": 400,
+        "name": "Tsing Yi",
+        "position": 10,
+        "type": "Property",
+        "rent": 15
+    },
+    {
+        "name": "FreeParking",
+        "position": 11,
+        "type": "FreeParking"
+    },
+    {
+        "owner": 0,
+        "color": "blue",
+        "price": 700,
+        "name": "Shatin",
+        "position": 12,
+        "type": "Property",
+        "rent": 75
+    },
+    {
+        "name": "Go",
+        "position": 13,
+        "type": "Go"
+    },
+    {
+        "owner": 0,
+        "color": "blue",
+        "price": 400,
+        "name": "Tuen Mun",
+        "position": 14,
+        "type": "Property",
+        "rent": 20
+    },
+    {
+        "owner": 0,
+        "color": "blue",
+        "price": 500,
+        "name": "Tai Po",
+        "position": 15,
+        "type": "Property",
+        "rent": 25
+    },
+    {
+        "name": "GotoJail",
+        "position": 16,
+        "type": "GoToJail"
+    },
+    {
+        "owner": 0,
+        "color": "yellow",
+        "price": 400,
+        "name": "Sai Kung",
+        "position": 17,
+        "type": "Property",
+        "rent": 10
+    },
+    {
+        "owner": 0,
+        "color": "yellow",
+        "price": 400,
+        "name": "Yuen Long",
+        "position": 18,
+        "type": "Property",
+        "rent": 25
+    },
+    {
+        "owner": 0,
+        "color": "Red",
+        "price": 500,
+        "name": "Polyu",
+        "position": 19,
+        "type": "Property",
+        "rent": 30
+    },
+    {
+        "owner": 0,
+        "color": "yellow",
+        "price": 600,
+        "name": "Tai O",
+        "position": 20,
+        "type": "Property",
+        "rent": 25
+    }
+]}

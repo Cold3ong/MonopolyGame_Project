@@ -1,0 +1,102 @@
+{"squares": [
+    {
+        "name": "Chance",
+        "position": 1,
+        "type": "Chance"
+    },
+    {
+        "name": "Go",
+        "position": 2,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 3,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 4,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 5,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 6,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 7,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 8,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 9,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 10,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 11,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 12,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 13,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 14,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 15,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 16,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 17,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 18,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 19,
+        "type": "Go"
+    },
+    {
+        "name": "Go",
+        "position": 20,
+        "type": "Go"
+    }
+]}
